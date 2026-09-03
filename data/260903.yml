@@ -1,0 +1,56 @@
+about:
+  description: :zzz: A utility tool powered by fzf for using git interactively.
+  license: MIT
+  homepage: 
+  head: 0fbd9ed
+  archived: false
+  latestVersion: 26.09.0
+  collectedAt: 2026-09-03T04:48:02Z
+timeline:
+  created: 2017-11-15
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 5071
+  watcher: 25
+  fork: 163
+  release: 42
+  contributor: 55
+  pullRequest: 54
+  issue: 198
+language:
+  Shell: 115777
+totalLine: 115777
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+  last90d:
+    since: 2026-06-05
+    release: 3
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 1
+    openIssue: 2
+    commit: 13
+  last180d:
+    since: 2026-03-07
+    release: 7
+    mergedPR: 47
+    openPR: 0
+    closedIssue: 4
+    openIssue: 4
+    commit: 57
+  last360d:
+    since: 2025-09-08
+    release: 11
+    mergedPR: 60
+    openPR: 1
+    closedIssue: 10
+    openIssue: 6
+    commit: 85

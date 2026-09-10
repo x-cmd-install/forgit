@@ -7,7 +7,7 @@ about:
   latestVersion: "26.09.1"
   latestRelease: "26.09.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:09:30Z
+  collectedAt: 2026-09-10T20:57:56Z
 timeline:
   created: 2017-11-15
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 5076
+  star: 5075
   watcher: 26
   fork: 163
   release: 43
@@ -83,7 +83,7 @@ total:
   commit: 658
 ---
 path: /home/runner/.x-repo/github.com/wfxr/forgit
-collectedAt: 2026-09-10T05:09:31Z
+collectedAt: 2026-09-10T20:57:57Z
 loc:
   Bash:
     code: 1662
@@ -231,4 +231,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":385840743,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBptzns4W_3Zn","tag_name":"26.09.1","target_commitish":"main","name":"26.09.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T16:56:07Z","updated_at":"2026-09-09T20:58:00Z","published_at":"2026-09-09T20:58:00Z","assets":[{"id":553562553,"node_id":"RA_kwDOBptzns4g_rG5","name":"forgit-26.09.1.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":30193,"digest":"sha256:adf05d5478cf637dd186fa94cb46a090a1fdde006c6ba8f67ee00afb4865e72f","download_count":18,"created_at":"2026-09-09T20:57:59Z","updated_at":"2026-09-09T20:57:59Z"}],"body":"\n### \ud83d\ude80 Features\n\n- Add option to disable auto creating branches (#552)\n- Resolve a relative FORGIT_WORKTREE_ADD_DIR per repository\n\n### \ud83d\udc1b Bug Fixes\n\n- *(fish)* Completions fail to load with fish >= 4.8.0 (#556)\n\n### \ud83d\udcda Documentation\n\n- Always use latest bashunit version in dev dependencies","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":0}}
+{"id":385840743,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBptzns4W_3Zn","tag_name":"26.09.1","target_commitish":"main","name":"26.09.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-09T16:56:07Z","updated_at":"2026-09-09T20:58:00Z","published_at":"2026-09-09T20:58:00Z","assets":[{"id":553562553,"node_id":"RA_kwDOBptzns4g_rG5","name":"forgit-26.09.1.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":30193,"digest":"sha256:adf05d5478cf637dd186fa94cb46a090a1fdde006c6ba8f67ee00afb4865e72f","download_count":22,"created_at":"2026-09-09T20:57:59Z","updated_at":"2026-09-09T20:57:59Z"}],"body":"\n### \ud83d\ude80 Features\n\n- Add option to disable auto creating branches (#552)\n- Resolve a relative FORGIT_WORKTREE_ADD_DIR per repository\n\n### \ud83d\udc1b Bug Fixes\n\n- *(fish)* Completions fail to load with fish >= 4.8.0 (#556)\n\n### \ud83d\udcda Documentation\n\n- Always use latest bashunit version in dev dependencies","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":0}}

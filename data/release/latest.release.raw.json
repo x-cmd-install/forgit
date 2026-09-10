@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 30193,
       "digest": "sha256:adf05d5478cf637dd186fa94cb46a090a1fdde006c6ba8f67ee00afb4865e72f",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-09T20:57:59Z",
       "updated_at": "2026-09-09T20:57:59Z",
       "browser_download_url": "https://github.com/wfxr/forgit/releases/download/26.09.1/forgit-26.09.1.tar.gz"

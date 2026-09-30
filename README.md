@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-07-31 | 3 | 8 | 0 | 3 | 0 | 10 |
-| 90d | 2026-07-01 | 4 | 12 | 0 | 3 | 0 | 14 |
-| last180d | 2026-04-02 | 7 | 42 | 0 | 6 | 0 | 47 |
-| 360d | 2025-10-04 | 11 | 65 | 1 | 13 | 3 | 91 |
-| last720d | 2024-10-09 | 21 | 102 | 1 | 41 | 3 | 134 |
+| 30d | 2026-08-31 | 2 | 5 | 0 | 1 | 0 | 6 |
+| last60d | 2026-08-01 | 3 | 7 | 0 | 3 | 0 | 10 |
+| 90d | 2026-07-02 | 3 | 12 | 0 | 3 | 0 | 14 |
+| last180d | 2026-04-03 | 7 | 42 | 0 | 6 | 0 | 47 |
+| 360d | 2025-10-05 | 11 | 65 | 1 | 13 | 3 | 91 |
+| last720d | 2024-10-10 | 21 | 102 | 1 | 41 | 3 | 134 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:06:52Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:55:17Z._

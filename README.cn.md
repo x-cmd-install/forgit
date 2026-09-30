@@ -32,7 +32,7 @@ x install forgit
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install forgit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-07-31 | 3 | 8 | 0 | 3 | 0 | 10 |
-| 90d | 2026-07-01 | 4 | 12 | 0 | 3 | 0 | 14 |
-| last180d | 2026-04-02 | 7 | 42 | 0 | 6 | 0 | 47 |
-| 360d | 2025-10-04 | 11 | 65 | 1 | 13 | 3 | 91 |
-| last720d | 2024-10-09 | 21 | 102 | 1 | 41 | 3 | 134 |
+| 30d | 2026-08-31 | 2 | 5 | 0 | 1 | 0 | 6 |
+| last60d | 2026-08-01 | 3 | 7 | 0 | 3 | 0 | 10 |
+| 90d | 2026-07-02 | 3 | 12 | 0 | 3 | 0 | 14 |
+| last180d | 2026-04-03 | 7 | 42 | 0 | 6 | 0 | 47 |
+| 360d | 2025-10-05 | 11 | 65 | 1 | 13 | 3 | 91 |
+| last720d | 2024-10-10 | 21 | 102 | 1 | 41 | 3 | 134 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ forgit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:06:53Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T05:55:17Z._

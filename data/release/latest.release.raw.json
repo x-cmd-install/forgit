@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/wfxr/forgit/releases/385840743",
-  "assets_url": "https://api.github.com/repos/wfxr/forgit/releases/385840743/assets",
-  "upload_url": "https://uploads.github.com/repos/wfxr/forgit/releases/385840743/assets{?name,label}",
-  "html_url": "https://github.com/wfxr/forgit/releases/tag/26.09.1",
-  "id": 385840743,
+  "url": "https://api.github.com/repos/wfxr/forgit/releases/400564473",
+  "assets_url": "https://api.github.com/repos/wfxr/forgit/releases/400564473/assets",
+  "upload_url": "https://uploads.github.com/repos/wfxr/forgit/releases/400564473/assets{?name,label}",
+  "html_url": "https://github.com/wfxr/forgit/releases/tag/26.10.0",
+  "id": 400564473,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBptzns4W_3Zn",
-  "tag_name": "26.09.1",
+  "node_id": "RE_kwDOBptzns4X4CD5",
+  "tag_name": "26.10.0",
   "target_commitish": "main",
-  "name": "26.09.1",
+  "name": "26.10.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-09T16:56:07Z",
-  "updated_at": "2026-09-09T20:58:00Z",
-  "published_at": "2026-09-09T20:58:00Z",
+  "created_at": "2026-09-25T20:05:03Z",
+  "updated_at": "2026-10-01T01:05:05Z",
+  "published_at": "2026-10-01T01:05:05Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/wfxr/forgit/releases/assets/553562553",
-      "id": 553562553,
-      "node_id": "RA_kwDOBptzns4g_rG5",
-      "name": "forgit-26.09.1.tar.gz",
+      "url": "https://api.github.com/repos/wfxr/forgit/releases/assets/602126426",
+      "id": 602126426,
+      "node_id": "RA_kwDOBptzns4j47ha",
+      "name": "forgit-26.10.0.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,27 +65,15 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 30193,
-      "digest": "sha256:adf05d5478cf637dd186fa94cb46a090a1fdde006c6ba8f67ee00afb4865e72f",
-      "download_count": 38,
-      "created_at": "2026-09-09T20:57:59Z",
-      "updated_at": "2026-09-09T20:57:59Z",
-      "browser_download_url": "https://github.com/wfxr/forgit/releases/download/26.09.1/forgit-26.09.1.tar.gz"
+      "size": 30281,
+      "digest": "sha256:dd967eef52084bb3b4addb40b69296797df673106c3b3a23c6ce340774728384",
+      "download_count": 15,
+      "created_at": "2026-10-01T01:05:04Z",
+      "updated_at": "2026-10-01T01:05:05Z",
+      "browser_download_url": "https://github.com/wfxr/forgit/releases/download/26.10.0/forgit-26.10.0.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/wfxr/forgit/tarball/26.09.1",
-  "zipball_url": "https://api.github.com/repos/wfxr/forgit/zipball/26.09.1",
-  "body": "\n### 🚀 Features\n\n- Add option to disable auto creating branches (#552)\n- Resolve a relative FORGIT_WORKTREE_ADD_DIR per repository\n\n### 🐛 Bug Fixes\n\n- *(fish)* Completions fail to load with fish >= 4.8.0 (#556)\n\n### 📚 Documentation\n\n- Always use latest bashunit version in dev dependencies",
-  "reactions": {
-    "url": "https://api.github.com/repos/wfxr/forgit/releases/385840743/reactions",
-    "total_count": 2,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 2,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/wfxr/forgit/tarball/26.10.0",
+  "zipball_url": "https://api.github.com/repos/wfxr/forgit/zipball/26.10.0",
+  "body": "\n### 📚 Documentation\n\n- Set default branch to main in antigen bundle command"
 }

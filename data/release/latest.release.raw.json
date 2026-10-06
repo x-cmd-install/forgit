@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 30281,
       "digest": "sha256:dd967eef52084bb3b4addb40b69296797df673106c3b3a23c6ce340774728384",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-10-01T01:05:04Z",
       "updated_at": "2026-10-01T01:05:05Z",
       "browser_download_url": "https://github.com/wfxr/forgit/releases/download/26.10.0/forgit-26.10.0.tar.gz"

@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-09 | 3 | 8 | 0 | 2 | 0 | 11 |
-| 90d | 2026-07-10 | 4 | 11 | 0 | 3 | 0 | 14 |
-| last180d | 2026-04-11 | 7 | 37 | 0 | 4 | 0 | 39 |
-| 360d | 2025-10-13 | 12 | 66 | 1 | 13 | 3 | 92 |
-| last720d | 2024-10-18 | 22 | 102 | 1 | 41 | 3 | 135 |
+| 30d | 2026-09-09 | 2 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-10 | 3 | 8 | 0 | 2 | 0 | 11 |
+| 90d | 2026-07-11 | 4 | 10 | 0 | 3 | 0 | 14 |
+| last180d | 2026-04-12 | 6 | 37 | 0 | 4 | 0 | 39 |
+| 360d | 2025-10-14 | 12 | 66 | 1 | 13 | 3 | 92 |
+| last720d | 2024-10-19 | 22 | 102 | 1 | 41 | 3 | 134 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:25:22Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:26:19Z._

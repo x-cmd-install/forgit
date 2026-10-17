@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.0` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-16
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 5,086 · **Forks**: 167 · **Open issues**: 200 · **Contributors**: 56
+- **Stars**: 5,088 · **Forks**: 170 · **Open issues**: 200 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 304 · **Open PRs**: 1 · **Closed issues**: 193 · **Open issues**: 7 · **Commits**: 661
+- **Releases**: 44 · **Merged PRs**: 305 · **Open PRs**: 1 · **Closed issues**: 193 · **Open issues**: 7 · **Commits**: 662
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 2 | 0 | 0 | 1 | 2 |
-| last60d | 2026-08-17 | 3 | 8 | 0 | 1 | 1 | 11 |
-| 90d | 2026-07-18 | 4 | 9 | 0 | 3 | 1 | 11 |
-| last180d | 2026-04-19 | 6 | 30 | 0 | 4 | 1 | 31 |
-| 360d | 2025-10-21 | 12 | 66 | 1 | 13 | 3 | 92 |
-| last720d | 2024-10-26 | 22 | 102 | 1 | 41 | 4 | 134 |
+| 30d | 2026-09-17 | 1 | 3 | 0 | 0 | 1 | 3 |
+| last60d | 2026-08-18 | 3 | 9 | 0 | 1 | 1 | 12 |
+| 90d | 2026-07-19 | 4 | 10 | 0 | 3 | 1 | 12 |
+| last180d | 2026-04-20 | 6 | 30 | 0 | 4 | 1 | 32 |
+| 360d | 2025-10-22 | 12 | 67 | 1 | 13 | 3 | 93 |
+| last720d | 2024-10-27 | 22 | 103 | 1 | 41 | 4 | 135 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:48:41Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:40:54Z._

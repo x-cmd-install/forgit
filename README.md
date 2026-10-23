@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -57,18 +57,27 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-08-23 | 3 | 8 | 1 | 1 | 1 | 11 |
-| 90d | 2026-07-24 | 4 | 10 | 1 | 3 | 1 | 12 |
-| last180d | 2026-04-25 | 6 | 28 | 1 | 4 | 1 | 30 |
-| 360d | 2025-10-27 | 12 | 65 | 2 | 13 | 3 | 93 |
-| last720d | 2024-11-01 | 22 | 103 | 2 | 41 | 4 | 135 |
+| 30d | 2026-09-23 | 1 | 3 | 1 | 0 | 1 | 3 |
+| last60d | 2026-08-24 | 3 | 8 | 1 | 1 | 1 | 11 |
+| 90d | 2026-07-25 | 4 | 10 | 1 | 3 | 1 | 12 |
+| last180d | 2026-04-26 | 6 | 28 | 1 | 4 | 1 | 30 |
+| 360d | 2025-10-28 | 12 | 65 | 2 | 13 | 3 | 93 |
+| last720d | 2024-11-02 | 21 | 102 | 2 | 41 | 4 | 135 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [forgit-26.10.0.tar.gz](https://github.com/wfxr/forgit/releases/download/26.10.0/forgit-26.10.0.tar.gz) | 29.6 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **9** distros on [repology.org](https://repology.org/project/forgit). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `26.10.0` | ✅ latest |
+| Nix unstable | `26.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +88,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:04:13Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:07:30Z._

@@ -14,13 +14,13 @@ x install forgit
 
 ## Code insight
 
-Total: **2,764** lines of code across **23** files in the top 5 languages.
+Total: **2,787** lines of code across **24** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bash | 1,662 | 240 | 202 | 2 |
-| Sh | 704 | 70 | 223 | 17 |
-| Zsh | 202 | 15 | 43 | 1 |
+| Sh | 724 | 73 | 229 | 18 |
+| Zsh | 205 | 17 | 43 | 1 |
 | Fish | 151 | 15 | 17 | 2 |
 | Toml | 45 | 34 | 3 | 1 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `26.10.0` (2026-10-01)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-24
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 5,092 · **Forks**: 168 · **Open issues**: 200 · **Contributors**: 56
+- **Stars**: 5,093 · **Forks**: 168 · **Open issues**: 200 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 305 · **Open PRs**: 2 · **Closed issues**: 193 · **Open issues**: 7 · **Commits**: 662
+- **Releases**: 44 · **Merged PRs**: 306 · **Open PRs**: 1 · **Closed issues**: 194 · **Open issues**: 6 · **Commits**: 664
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 3 | 1 | 0 | 1 | 3 |
-| last60d | 2026-08-25 | 3 | 8 | 1 | 1 | 1 | 11 |
-| 90d | 2026-07-26 | 4 | 10 | 1 | 3 | 1 | 12 |
-| last180d | 2026-04-27 | 6 | 28 | 1 | 4 | 1 | 30 |
-| 360d | 2025-10-29 | 12 | 65 | 2 | 13 | 3 | 93 |
-| last720d | 2024-11-03 | 21 | 101 | 2 | 41 | 4 | 135 |
+| 30d | 2026-09-25 | 1 | 3 | 0 | 1 | 0 | 3 |
+| last60d | 2026-08-26 | 3 | 9 | 0 | 2 | 0 | 11 |
+| 90d | 2026-07-27 | 4 | 11 | 0 | 4 | 0 | 14 |
+| last180d | 2026-04-28 | 6 | 29 | 0 | 5 | 0 | 32 |
+| 360d | 2025-10-30 | 12 | 66 | 1 | 14 | 2 | 93 |
+| last720d | 2024-11-04 | 21 | 102 | 1 | 41 | 3 | 137 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:52:24Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:02:16Z._

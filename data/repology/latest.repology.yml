@@ -2,8 +2,8 @@
   srcname: forgit
   binname: forgit
   visiblename: forgit
-  version: 26.10.0
-  origversion: 26.10.0-1
+  version: 26.11.0
+  origversion: 26.11.0-1
   status: newest
   summary: Utility tool powered by fzf for using git interactively
   maintainers:
@@ -27,7 +27,7 @@
 - repo: homebrew
   srcname: forgit
   visiblename: forgit
-  version: 26.10.0
+  version: 26.11.0
   origversion: null
   status: newest
   summary: Interactive git commands in the terminal
@@ -91,7 +91,7 @@
   visiblename: zsh-forgit
   version: 26.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Utility tool powered by fzf for using git interactively
   maintainers:
     - nixpkgs.bu5hq@simplelogin.com

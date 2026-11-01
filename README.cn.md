@@ -41,7 +41,7 @@ x install forgit
 
 ## 发布
 
-- **最新版本**: `26.10.0` (2026-10-01)
+- **最新版本**: `26.11.0` (2026-11-01)
 - **最近提交**: 2026-10-24
 - **Release 含资产**: 1 个
 
@@ -51,33 +51,33 @@ x install forgit
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 306 · **开放 PR**: 1 · **已关闭 issue**: 194 · **开放 issue**: 6 · **提交数**: 664
+- **发布数**: 45 · **已合并 PR**: 306 · **开放 PR**: 1 · **已关闭 issue**: 194 · **开放 issue**: 6 · **提交数**: 664
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 2 | 0 | 1 | 0 | 3 |
-| last60d | 2026-09-01 | 3 | 8 | 0 | 2 | 0 | 11 |
-| 90d | 2026-08-02 | 3 | 10 | 0 | 4 | 0 | 14 |
-| last180d | 2026-05-04 | 5 | 28 | 0 | 5 | 0 | 32 |
-| 360d | 2025-11-05 | 11 | 66 | 1 | 14 | 2 | 93 |
-| last720d | 2024-11-10 | 21 | 101 | 1 | 39 | 3 | 135 |
+| 30d | 2026-10-02 | 1 | 2 | 0 | 1 | 0 | 3 |
+| last60d | 2026-09-02 | 3 | 8 | 0 | 2 | 0 | 7 |
+| 90d | 2026-08-03 | 4 | 10 | 0 | 4 | 0 | 14 |
+| last180d | 2026-05-05 | 6 | 28 | 0 | 5 | 0 | 30 |
+| 360d | 2025-11-06 | 12 | 66 | 1 | 14 | 2 | 93 |
+| last720d | 2024-11-11 | 22 | 101 | 1 | 39 | 3 | 135 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [forgit-26.10.0.tar.gz](https://github.com/wfxr/forgit/releases/download/26.10.0/forgit-26.10.0.tar.gz) | 29.6 KiB | `native/unknown` |
+| [forgit-26.11.0.tar.gz](https://github.com/wfxr/forgit/releases/download/26.11.0/forgit-26.11.0.tar.gz) | 29.9 KiB | `native/unknown` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/forgit) 上共有 **9** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/forgit) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `26.10.0` | ✅ latest |
-| Nix unstable | `26.10.0` | ✅ latest |
+| Homebrew | `26.11.0` | ✅ latest |
+| Nix unstable | `26.10.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ forgit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:59:10Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:26:41Z._

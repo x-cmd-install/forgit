@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 306 · **Open PRs**: 1 · **Closed issues**: 194 · **Open issues**: 6 · **Commits**: 664
+- **Releases**: 45 · **Merged PRs**: 306 · **Open PRs**: 2 · **Closed issues**: 194 · **Open issues**: 6 · **Commits**: 664
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 2 | 0 | 1 | 0 | 3 |
-| last60d | 2026-09-02 | 3 | 8 | 0 | 2 | 0 | 7 |
-| 90d | 2026-08-03 | 4 | 10 | 0 | 4 | 0 | 14 |
-| last180d | 2026-05-05 | 6 | 28 | 0 | 5 | 0 | 30 |
-| 360d | 2025-11-06 | 12 | 66 | 1 | 14 | 2 | 93 |
-| last720d | 2024-11-11 | 22 | 101 | 1 | 39 | 3 | 135 |
+| 30d | 2026-10-03 | 1 | 2 | 1 | 1 | 0 | 3 |
+| last60d | 2026-09-03 | 3 | 8 | 1 | 2 | 0 | 7 |
+| 90d | 2026-08-04 | 4 | 10 | 1 | 3 | 0 | 14 |
+| last180d | 2026-05-06 | 6 | 28 | 1 | 5 | 0 | 30 |
+| 360d | 2025-11-07 | 12 | 66 | 2 | 14 | 2 | 93 |
+| last720d | 2024-11-12 | 22 | 100 | 2 | 38 | 3 | 135 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for forgit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:26:40Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:29:03Z._

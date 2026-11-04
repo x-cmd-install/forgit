@@ -89,9 +89,9 @@
 - repo: nix_unstable
   srcname: zsh-forgit
   visiblename: zsh-forgit
-  version: 26.10.0
+  version: 26.11.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Utility tool powered by fzf for using git interactively
   maintainers:
     - nixpkgs.bu5hq@simplelogin.com

@@ -7,7 +7,7 @@ about:
   latestVersion: "26.11.0"
   latestRelease: "26.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:20:12Z
+  collectedAt: 2026-11-28T08:15:48Z
 timeline:
   created: 2017-11-15
   lastCommit: 2026-11-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-01
   lastPrerelease: 
 popularity:
-  star: 5098
+  star: 5097
   watcher: 24
   fork: 165
   release: 45
@@ -27,7 +27,7 @@ language:
 totalBytes: 119936
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 3
     openPR: 0
@@ -35,7 +35,7 @@ recent:
     openIssue: 0
     commit: 3
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 6
     openPR: 0
@@ -43,7 +43,7 @@ recent:
     openIssue: 0
     commit: 7
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 4
     mergedPR: 11
     openPR: 0
@@ -51,7 +51,7 @@ recent:
     openIssue: 0
     commit: 14
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 6
     mergedPR: 26
     openPR: 0
@@ -59,7 +59,7 @@ recent:
     openIssue: 0
     commit: 29
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 11
     mergedPR: 67
     openPR: 0
@@ -67,7 +67,7 @@ recent:
     openIssue: 2
     commit: 95
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 22
     mergedPR: 103
     openPR: 1
@@ -83,7 +83,7 @@ total:
   commit: 667
 ---
 path: /home/runner/.x-repo/github.com/wfxr/forgit
-collectedAt: 2026-11-27T10:20:13Z
+collectedAt: 2026-11-28T08:15:49Z
 loc:
   Bash:
     code: 1662
